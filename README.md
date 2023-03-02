@@ -1,1 +1,1 @@
-# Atividade-007-Padr-es-de-Projeto
+# Atividade-007-Padroes-de-Projeto
